@@ -1,5 +1,5 @@
 ## Hi there 👋
-I m Learning 
+I m Learning Github 
 
 <!--
 **NehaKamat010/Nehakamat010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
